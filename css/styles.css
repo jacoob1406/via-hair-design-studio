@@ -242,6 +242,11 @@ img.price {
     align-content: center;
 }
 
+.item img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
 img.price {
     border: 7px solid cornsilk;
 }
